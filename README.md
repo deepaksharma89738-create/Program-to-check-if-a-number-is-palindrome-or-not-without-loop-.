@@ -1,0 +1,2 @@
+# Program-to-check-if-a-number-is-palindrome-or-not-without-loop-.
+A palindrome number is a number that remains the same when its digits are reversed, such as 121 or 1331. Without using a loop. The function reverses the digits of the number by repeatedly separating the last digit and building the reverse number. then the reversed number is compared with the original number to determine it is a palindrome or not.
